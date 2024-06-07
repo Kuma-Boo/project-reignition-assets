@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://c83lkm638w1vy"]
+
+[ext_resource type="Texture2D" uid="uid://cv1mcd55cix88" path="res://area/stage/3 evil foundry/data/environment/model/texture/lantern bloom.png" id="1_hr2r2"]
+
+[resource]
+resource_name = "Lantern Bloom"
+cull_mode = 2
+vertex_color_use_as_albedo = true
+albedo_texture = ExtResource("1_hr2r2")

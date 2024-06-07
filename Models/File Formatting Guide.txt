@@ -1,0 +1,21 @@
+level index + area name
+	act
+		data
+			environment (material/texture is located in ../../data/environment)
+				collision
+				lighting
+				path
+			map
+		Stage.tscn
+	data
+		environment
+			material
+			texture
+		common
+			Environment.tres
+			BGM.tscn
+		skybox
+			model
+				material
+				texture
+		shader

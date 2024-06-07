@@ -1,0 +1,44 @@
+Material name structure
+all lower case with spaces
+Add "common" if the texture is shared between multiple levels
+type -> color -> specular
+
+Join meshes that share the same materials to reduce draw calls
+Export the level in chunks for interiors that can be manually culled
+
+List of common materials shared between levels:
+
+Collection Name -> (number type)
+Sub Collection -> (number type)
+Exported file -> (act-number-type.gltf)
+
+Keep a backup of the materials outside the project. Importing new models that share materials seems to replace the textures.
+
+common trim white
+	Sand Oasis
+	Evil Foundry
+
+common water ripple
+	Sand Oasis
+	Dinosaur Jungle
+
+common lantern/common chain
+	Sand Oasis
+	Evil Foundry
+	night palace
+
+common window
+	Sand Oasis
+	Evil Foundry
+
+common atlas temple
+	Sand Oasis
+	Evil Foundry
+
+common foliage
+	Sand Oasis
+	Levitated Ruins
+
+common roof
+	Sand Oasis
+	Night Palace
