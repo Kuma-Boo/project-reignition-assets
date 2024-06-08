@@ -1,7 +1,7 @@
-[gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://ckjmegqno8b4n"]
+[gd_resource type="ShaderMaterial" load_steps=3 format=3]
 
-[ext_resource type="Shader" path="res://area/stage/2 dino jungle/data/shader/BoatWave.gdshader" id="1_77tr5"]
-[ext_resource type="Texture2D" uid="uid://c8hswlgft8pqi" path="res://area/stage/2 dino jungle/data/environment/model/texture/boat wave.png" id="2_7meh7"]
+[ext_resource type="Shader" path="res://area/2 dino jungle/data/shader/BoatWave.gdshader" id="1_77tr5"]
+[ext_resource type="Texture2D" uid="uid://c8hswlgft8pqi" path="res://area/2 dino jungle/data/texture/boat wave.png" id="2_7meh7"]
 
 [resource]
 render_priority = 0

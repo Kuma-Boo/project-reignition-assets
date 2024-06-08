@@ -1,8 +1,8 @@
-[gd_resource type="ShaderMaterial" load_steps=4 format=3 uid="uid://csl6t8j5fg8pn"]
+[gd_resource type="ShaderMaterial" load_steps=4 format=3 uid="uid://bblr4h0o86dm1"]
 
-[ext_resource type="Shader" path="res://area/stage/2 dino jungle/data/shader/River.gdshader" id="1_mch7s"]
-[ext_resource type="Texture2D" uid="uid://c4qxilug7jvbl" path="res://area/stage/2 dino jungle/data/environment/model/texture/river water.png" id="2_jsac5"]
-[ext_resource type="Texture2D" uid="uid://bdmlf6x26xomb" path="res://area/stage/2 dino jungle/data/environment/model/texture/falls displacement.png" id="3_ecyac"]
+[ext_resource type="Shader" path="res://area/2 dino jungle/data/shader/River.gdshader" id="1_mch7s"]
+[ext_resource type="Texture2D" uid="uid://c4qxilug7jvbl" path="res://area/2 dino jungle/data/texture/river water.png" id="2_jsac5"]
+[ext_resource type="Texture2D" uid="uid://bdmlf6x26xomb" path="res://area/2 dino jungle/data/texture/falls displacement.png" id="3_ecyac"]
 
 [resource]
 render_priority = 0

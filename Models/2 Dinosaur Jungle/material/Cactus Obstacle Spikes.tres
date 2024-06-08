@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://0ch43ohavsdc"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://cm6nsid17hyid" path="res://area/stage/2 dino jungle/data/environment/model/texture/cactus obstacle spikes.png" id="1_r8a5b"]
+[ext_resource type="Texture2D" uid="uid://cm6nsid17hyid" path="res://area/2 dino jungle/data/texture/cactus obstacle spikes.png" id="1_r8a5b"]
 
 [resource]
 resource_name = "Cactus Obstacle Spikes"

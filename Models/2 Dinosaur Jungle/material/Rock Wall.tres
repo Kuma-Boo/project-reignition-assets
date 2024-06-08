@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bqehj5lexat04"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://d3fejjkxxxkju" path="res://area/stage/2 dino jungle/data/environment/model/texture/rock wall.png" id="1_3erqw"]
+[ext_resource type="Texture2D" uid="uid://d3fejjkxxxkju" path="res://area/2 dino jungle/data/texture/rock wall.png" id="1_3erqw"]
 
 [resource]
 resource_name = "Rock Wall"

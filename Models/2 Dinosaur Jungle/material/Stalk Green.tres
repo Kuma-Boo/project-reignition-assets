@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://ciegwh7mrdxv"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://djo2nr63qyf3x" path="res://area/stage/2 dino jungle/data/environment/model/texture/stalk green.png" id="1_ghnjs"]
+[ext_resource type="Texture2D" uid="uid://djo2nr63qyf3x" path="res://area/2 dino jungle/data/texture/stalk green.png" id="1_ghnjs"]
 
 [resource]
 resource_name = "Stalk Green"

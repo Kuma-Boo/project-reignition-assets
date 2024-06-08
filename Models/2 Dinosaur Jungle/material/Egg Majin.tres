@@ -1,7 +1,7 @@
-[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://vyodp1yk05nn"]
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3]
 
-[ext_resource type="Texture2D" uid="uid://dtg1783dvr6oy" path="res://area/stage/2 dino jungle/data/environment/model/texture/egg majin.png" id="1_hrtli"]
-[ext_resource type="Texture2D" uid="uid://ctr6bkylfbmn2" path="res://area/stage/2 dino jungle/data/environment/model/texture/egg majin detail.png" id="2_cnris"]
+[ext_resource type="Texture2D" uid="uid://dtg1783dvr6oy" path="res://area/2 dino jungle/data/texture/egg majin.png" id="1_hrtli"]
+[ext_resource type="Texture2D" uid="uid://ctr6bkylfbmn2" path="res://area/2 dino jungle/data/texture/egg majin detail.png" id="2_cnris"]
 
 [resource]
 resource_name = "Egg Majin"

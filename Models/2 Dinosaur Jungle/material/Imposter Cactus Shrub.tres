@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://2gd353yl00na"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://cy7o61jqcycal" path="res://area/stage/2 dino jungle/data/environment/model/texture/imposter cactus shrub.png" id="1_e56uc"]
+[ext_resource type="Texture2D" uid="uid://cy7o61jqcycal" path="res://area/2 dino jungle/data/texture/imposter cactus shrub.png" id="1_e56uc"]
 
 [resource]
 resource_name = "Imposter Cactus Shrub"

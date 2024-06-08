@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cnen3bdrsslim"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://cxexamoqhsr2n" path="res://area/stage/2 dino jungle/data/environment/model/texture/lilypad fringe.png" id="1_qa51a"]
+[ext_resource type="Texture2D" uid="uid://cxexamoqhsr2n" path="res://area/2 dino jungle/data/texture/lilypad fringe.png" id="1_qa51a"]
 
 [resource]
 resource_name = "Lilypad Fringe"

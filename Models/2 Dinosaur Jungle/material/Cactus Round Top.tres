@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://nqi553y0j7bt"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://dgtg43yhclyc1" path="res://area/stage/2 dino jungle/data/environment/model/texture/cactus round top.png" id="1_ihw1l"]
+[ext_resource type="Texture2D" uid="uid://dgtg43yhclyc1" path="res://area/2 dino jungle/data/texture/cactus round top.png" id="1_ihw1l"]
 
 [resource]
 resource_name = "Cactus Round Top"

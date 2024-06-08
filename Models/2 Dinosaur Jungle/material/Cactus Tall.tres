@@ -1,6 +1,6 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cbve414w3527b"]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
 
-[ext_resource type="Texture2D" uid="uid://2jum14d2pin5" path="res://area/stage/2 dino jungle/data/environment/model/texture/cactus tall.png" id="1_4mwvd"]
+[ext_resource type="Texture2D" uid="uid://2jum14d2pin5" path="res://area/2 dino jungle/data/texture/cactus tall.png" id="1_4mwvd"]
 
 [resource]
 resource_name = "Cactus Tall"
