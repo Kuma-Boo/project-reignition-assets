@@ -1,3 +1,4 @@
+import string
 import bpy
 from bpy import context
 
@@ -61,4 +62,6 @@ for obj in bpy.data.objects:
             else:
                 matDictionary[key] = mat_slot.material
             
+            material_name = string.capwords(key)
+            mat_slot.material.name = material_name
             mat_slot.material.use_backface_culling = True
