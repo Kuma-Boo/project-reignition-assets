@@ -1,4 +1,4 @@
-[gd_resource type="ShaderMaterial" load_steps=4 format=3]
+[gd_resource type="ShaderMaterial" load_steps=4 format=3 uid="uid://veseys6frsnr"]
 
 [ext_resource type="Shader" path="res://area/1 sand oasis/data/shader/BeachWave.gdshader" id="1_pqs8h"]
 [ext_resource type="Texture2D" uid="uid://bd6k1mjtjbp2r" path="res://area/1 sand oasis/data/texture/beach wave.png" id="2_bamvi"]
@@ -7,7 +7,9 @@
 [resource]
 render_priority = 60
 shader = ExtResource("1_pqs8h")
-shader_parameter/frequency = 1.2
-shader_parameter/strength = 1.0
+shader_parameter/frequency = 0.62
+shader_parameter/strength = 0.5
+shader_parameter/offset = -0.5
+shader_parameter/secondary_offset = 0.475
 shader_parameter/main_tex = ExtResource("2_bamvi")
 shader_parameter/secondary_tex = ExtResource("3_rvlwh")

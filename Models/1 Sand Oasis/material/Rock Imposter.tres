@@ -1,12 +1,18 @@
-[gd_resource type="StandardMaterial3D" load_steps=2 format=3]
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://b7ra8fdl6xiym"]
 
 [ext_resource type="Texture2D" uid="uid://cuvu6qi13ho5g" path="res://area/1 sand oasis/data/texture/rock imposter.png" id="1_egqud"]
 
 [resource]
 resource_name = "Rock Imposter"
 transparency = 2
-alpha_scissor_threshold = 0.5
-alpha_antialiasing_mode = 0
+alpha_scissor_threshold = 0.4
+alpha_antialiasing_mode = 1
+alpha_antialiasing_edge = 0.15
+cull_mode = 2
+shading_mode = 0
+diffuse_mode = 3
 specular_mode = 2
-vertex_color_use_as_albedo = true
+albedo_color = Color(1, 0.914986, 0.875603, 1)
 albedo_texture = ExtResource("1_egqud")
+disable_receive_shadows = true
+proximity_fade_distance = 0.0
