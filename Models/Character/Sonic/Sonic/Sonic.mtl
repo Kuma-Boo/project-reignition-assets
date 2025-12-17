@@ -1,0 +1,29 @@
+# Material file for Sonic.obj
+
+newmtl _1___Default
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.5882 0.5882 0.5882
+	map_Kd Textures\SONIC_COLOR.png
+
+newmtl _2___Default
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.5882 0.5882 0.5882
+	map_Kd Textures\SONIC_EYE.png
+
+newmtl _3___Default
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.5882 0.5882 0.5882
+	map_Kd Textures\SONIC_REF.png
+

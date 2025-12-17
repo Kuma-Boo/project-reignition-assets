@@ -1,0 +1,11 @@
+# Material file for Sonic_LOW.obj
+
+newmtl _1___Default
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.588 0.588 0.588
+	Ks 0.0 0.0 0.0
+	Ka 0.5882 0.5882 0.5882
+	map_Kd Textures\SONIC_COLOR_LOW.png
+
