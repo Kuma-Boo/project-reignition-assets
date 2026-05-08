@@ -41,7 +41,7 @@ for obj in bpy.context.selected_objects:
             i += 1
     
     #Clean up extra vertex color groups
-    original_vertex_color.name = "VertexColor"
+    original_vertex_color.name = "_VERTEXCOLOR"
     while len(obj.data.vertex_colors) > 1:
         obj.data.vertex_colors.remove(obj.data.vertex_colors[1])
     #End Vertex Color

@@ -41,8 +41,10 @@ for obj in bpy.data.objects:
         for x in mat_slot.material.node_tree.nodes:
             if x.type != 'TEX_IMAGE':
                 if x.type == "BSDF_PRINCIPLED":
-                    x.inputs[7].default_value = 0.0 #Remove specular
-                    x.inputs[9].default_value = 1.0 #Max Roughness
+                    # (Blender 3.3.5)
+                    # x.inputs[7].default_value = 0.0 #Remove specular
+                    # x.inputs[9].default_value = 1.0 #Max Roughness
+                    x.inputs[2].default_value = 1.0 # Max Roughness (Blender 4.1)
                 elif x.type != "OUTPUT_MATERIAL":
                     mat_slot.material.node_tree.nodes.remove(x)
                 continue
